@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(image/back.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #000;
+    border-color: #fff;
+   
+}
+.btn-primary:hover{
+    background-color: #ab47bc;
+    border-color: #ab47bc;
+}
+.reg-banner.btn-info {
+    color: #fff;
+    background-color: #fff;
+    border-color: #fff;
+    padding: 10px 50px 10px 50px;
+
+}
